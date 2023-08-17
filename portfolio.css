@@ -1,0 +1,47 @@
+.photos{border-radius:15px;
+
+}
+.am{
+    color:red;
+    font-style: oblique;
+    font-weight: 100;
+}
+.mbm{
+    color: blue;
+}
+.body{
+    background-color: aqua;
+}
+.bigtitle{
+    text-align: center;
+    color: blueviolet;
+    font-style: oblique;
+}
+.dd:hover{
+    color: brown;
+}
+.paragraph{
+    border-width: 0.0001cm;
+    border-style: dashed;
+    border-color:rgb(165, 10, 118);
+
+}
+dt,th{
+color: bisque;
+
+}
+.about {
+    display: flex;
+    align-items: center;
+}
+
+.about img {
+    max-width: 100%;
+    margin-right: 20px; 
+}
+.container{
+    
+    position: sticky;
+    top: 0;
+    background-color: brown;
+}
